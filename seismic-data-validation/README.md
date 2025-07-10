@@ -13,6 +13,7 @@ Real-time seismic data collection and QuestDB ingestion validation.
 ## Database environment
 
 QuestDB time-series database
+
 [Quick start](https://questdb.com/docs/quick-start/)
 
 ## Usage
