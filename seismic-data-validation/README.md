@@ -31,6 +31,7 @@ python validate_data.py
 📍 Samples per station:
 
    IU.INCN.10.BHZ: 12993 samples
+   
    II.PFO.10.BHZ: 12242 samples
    IU.HRV.60.BHZ: 12051 samples
    IU.HRV.00.BHZ: 12035 samples
