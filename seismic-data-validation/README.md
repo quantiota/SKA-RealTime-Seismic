@@ -22,5 +22,5 @@ python validate_data.py
 
 ## Output
 
-- /logs/seismic_validation.log
-- questdb-query-1752183200659.csv
+- `/logs/seismic_validation.log`
+- `questdb-query-1752183200659.csv`
