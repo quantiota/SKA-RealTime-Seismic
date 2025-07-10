@@ -77,7 +77,7 @@ If you use this work, please cite:
   [arXiv:2503.13942](https://arxiv.org/abs/2503.13942)
 
   - **Structured Knowledge Accumulation: The Principle of Entropic Least Action in Forward-Only Neural Learning**
-   [arXiv:2504.13942](https://arxiv.org/abs/2503.03214)
+   [arXiv:2504.03214](https://arxiv.org/abs/2503.03214)
 
 ## License
 
