@@ -29,6 +29,7 @@ python validate_data.py
 📊 Total samples collected: 104762
 
 📍 Samples per station:
+
    IU.INCN.10.BHZ: 12993 samples
    II.PFO.10.BHZ: 12242 samples
    IU.HRV.60.BHZ: 12051 samples
@@ -41,6 +42,7 @@ python validate_data.py
    IU.HRV.70.BHZ: 5257 samples
 
 📈 Amplitude statistics:
+
    IU.INCN.00.BHZ: -4537.0 to 8058.0 (avg: 1686.0)
    II.PFO.00.BHZ: -119.0 to 944.0 (avg: 437.6)
    IU.ANMO.10.BHZ: 7340.0 to 8097.0 (avg: 7664.8)
@@ -53,6 +55,7 @@ python validate_data.py
    IU.INCN.10.BHZ: -16811.0 to 79939.0 (avg: 29627.2)
 
 🕐 Recent samples:
+
    IU.INCN.10.BHZ: 24741.0 at 2025-07-10 21:31:07.869538
    IU.INCN.10.BHZ: 24274.0 at 2025-07-10 21:31:07.844538
    IU.INCN.10.BHZ: 22375.0 at 2025-07-10 21:31:07.819538
