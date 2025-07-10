@@ -7,6 +7,14 @@ Real-time seismic data collection and QuestDB ingestion validation.
 - Test QuestDB table creation and data ingestion
 - Collect clean raw seismic parameters for future SKA analysis
 
+
+
+
+## Database environment
+
+QuestDB time-series database
+[Quick start](https://questdb.com/docs/quick-start/)
+
 ## Usage
 
 ```bash
