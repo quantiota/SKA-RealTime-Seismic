@@ -72,10 +72,11 @@ The goal: **Reveal hidden transitions, clustering, and regime changes in earthqu
 If you use this work, please cite:
 
 * Bouarfa Mahi.
-  **Structured Knowledge Accumulation: An Autonomous Framework for Layer-Wise Entropy Reduction in Neural Learning**
+  
+  * **Structured Knowledge Accumulation: An Autonomous Framework for Layer-Wise Entropy Reduction in Neural Learning**
   [arXiv:2503.13942](https://arxiv.org/abs/2503.13942)
 
-  **Structured Knowledge Accumulation: The Principle of Entropic Least Action in Forward-Only Neural Learning**
+  * **Structured Knowledge Accumulation: The Principle of Entropic Least Action in Forward-Only Neural Learning**
    [arXiv:2504.13942](https://arxiv.org/abs/2503.03214)
 
 ## License
