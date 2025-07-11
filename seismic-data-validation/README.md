@@ -32,9 +32,26 @@ python validate_data.py
 ## Output
 
 - `/logs/seismic_validation.log`
-- `questdb-query-1752183200659.csv`
+- `questdb-query-1752183200659.csv` downlloaded from the questDB console
 
+## Example Grafana Visualization
 
+![Seismic Amplitude Panel](../images/grafana-seismic-station.png)
+
+_Seismic amplitude time series for station IU.ANMO.00.BHZ.  
+Panel created with Grafana using the following SQL:_
+
+```sql
+SELECT
+    timestamp,
+    amplitude
+FROM
+    seismic_events
+WHERE
+    station_id = 'IU.ANMO.00.BHZ'
+ORDER BY
+    timestamp
+```
 
 ## Data Collection Summary
 
