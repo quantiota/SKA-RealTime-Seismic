@@ -32,7 +32,7 @@ python validate_data.py
 ## Output
 
 - `/logs/seismic_validation.log`
-- `questdb-query-1752183200659.csv` downlloaded from the questDB console
+- `questdb-query-1752183200659.csv` downloaded from the questDB console
 
 ## Example Grafana Visualization
 
