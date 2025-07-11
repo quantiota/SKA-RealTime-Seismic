@@ -10,11 +10,11 @@ Real-time seismic data collection and QuestDB ingestion validation.
 
 
 
-## Database environment
+## Development environment
 
-QuestDB time-series database
+AI Agent Host
 
-[Quick start](https://questdb.com/docs/quick-start/)
+[Quick start](https://github.com/quantiota/AI-Agent-Host)
 
 ## Usage
 
@@ -25,7 +25,7 @@ python test_connection.py
 # Start live data collection
 python seismic_stream_validator.py
 
-# Validate collected data
+# Validate collected data.0
 python validate_data.py
 ```
 
