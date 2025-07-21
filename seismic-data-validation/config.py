@@ -19,6 +19,7 @@ SEISMIC_CONFIG = {
         ('CI', 'SVD', 'EHZ'),   # California - San Andreas
         ('IU', 'HRV', 'BHZ'),   # Harvard - East Coast
         ('II', 'PFO', 'BHZ'),   # Pinon Flat - California
+        ('US', 'YLT', 'BHZ'),   # Yellowstone National Park
     ]
 }
 
