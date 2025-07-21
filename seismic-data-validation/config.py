@@ -20,7 +20,6 @@ SEISMIC_CONFIG = {
         ('IU', 'HRV', 'BHZ'),   # Harvard - East Coast
         ('II', 'PFO', 'BHZ'),   # Pinon Flat - California
         ('WY', 'YHH', 'EHZ'),  # Yellowstone - Huckleberry Ridge
-        ('WY', 'YNR', 'EHZ'),  # Yellowstone - Norris Junction
         ('WY', 'YMC', 'EHZ'),  # Yellowstone - Mary Lake
     ]
 }
