@@ -19,7 +19,9 @@ SEISMIC_CONFIG = {
         ('CI', 'SVD', 'EHZ'),   # California - San Andreas
         ('IU', 'HRV', 'BHZ'),   # Harvard - East Coast
         ('II', 'PFO', 'BHZ'),   # Pinon Flat - California
-        ('US', 'YLT', 'BHZ'),   # Yellowstone National Park
+        ('WY', 'YHH', 'EHZ'),  # Yellowstone - Huckleberry Ridge
+        ('WY', 'YNR', 'EHZ'),  # Yellowstone - Norris Junction
+        ('WY', 'YMC', 'EHZ'),  # Yellowstone - Mary Lake
     ]
 }
 
